@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaisalArfat, working in Neeyamo enterprises solution, as Senior Product Specialist. I have 4+ years experience in Functional Testing
 - ℹ️  I responsible for Analyzing requirement, Functional testing, API testing and databse testing and proficient in UI/UX testing.
 - Basically I have tested HR product tool.
-- I am using  Jira and percy tool.
+- I am using  Jira, Figma and percy tool.
 - I perform Smoke, Sanity testing
 - I am handling Service Desk- Ticketing tool where I am responcible for enhance the feature, quality, performance and UI.
 - Almost 90+ client we have provided the ticketing tool where we have provided this tool as per client requirement.
